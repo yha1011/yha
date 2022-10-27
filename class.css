@@ -1,0 +1,97 @@
+
+/* bài tập 1 */
+/* .div{
+    height: 500px; 
+    width: 500px;
+    background-color: darkgrey;
+}
+.div-first{
+    height: 100px;
+    width: 150px;
+    background-color: red;
+}
+.div-second{
+    height: 100px;
+    width: 450px;
+    background-color: green;
+    display:inline-block;
+    position:relative; 
+
+}
+.div-thirth{
+    background-color: yellow;
+    height: 100PX;
+    width: 300PX;
+    position: absolute;
+    display: block;
+    position: absolute;
+    right:70%;
+    top:30;
+} */
+
+
+
+
+/* bài tập 2 */
+/* .tím{
+    display:inline-block;
+    background-color:cornflowerblue;
+    color: white;
+    width:100%;
+    height:50px;
+    margin-top:10px;
+    
+}
+.đỏ{
+    display: inline-block; 
+    word-wrap:break-word;
+    background-color: red;
+    position: fixed;
+    right: 0;
+    top:0;
+    width: 150px;
+    height:170px;
+}
+.đen{
+   
+    background-color: black;
+    color: white;
+    width: 100%;
+    height:90px;
+}
+.xanh{
+    background-color: green;
+    margin-left:1%;
+    width: 99%;
+    height:50px;
+}
+.tím2{
+    display:inline-block;
+    background-color:cornflowerblue;
+    color: white;
+    width:100%;
+    height:50px;
+}
+ */
+
+/* mennu */
+ /* .nav{
+    background-color: darkcyan;
+    width:70%;
+    height: 15%;
+    text-align: center;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+ }
+ .nav-li{
+    display:inline-block;
+    font-size: 25px;
+    padding:25px;
+ } */
+
+ .site-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

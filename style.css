@@ -1,0 +1,43 @@
+.tieude{
+    font-size: 25px;
+    color: red;
+    text-align: center;
+    font-style: Arial; 
+           
+}
+.thuoctinh{
+    background-color: yellow;
+    color:  green;
+    font-size: 16px;
+    
+}
+.dulieu{
+    background-color: purple;
+    color: white;
+    font-size: 15px;
+}
+table{
+    border: 5PX double;
+}
+TH,TD{border: 2PX SOLID BLACK;
+
+}
+.div{
+    background-color:yellow;
+    display:table;
+}
+
+/* a{
+    color:yellow;
+    text-decoration: none;
+}
+a.whitewine{
+    color:purple;
+    
+
+}
+a.redwine{
+    color:red;
+   
+
+} */
