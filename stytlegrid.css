@@ -1,0 +1,29 @@
+@media(min-width:800px){
+.wrapper{
+    background-color: aquamarine;
+    display: grid;
+    /* grid-template-columns: 100px 1fr; */
+    grid-template-columns:repeat(auto-fit,minmax(100px,1fr));
+    /* grid-template-rows:100px  ; */
+    grid-gap:16px;
+}
+}
+.logo{
+    width:100px;
+    height:100px;
+}
+.head{
+    font-size: 30px;
+    color:black;
+}
+.menu{
+    background-color: rgb(144, 142, 139);
+    display:flex;
+    flex-direction: row;
+}
+.menul{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding:20px;
+}
